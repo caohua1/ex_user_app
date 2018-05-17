@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exApp.iml" filepath="$PROJECT_DIR$/exApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_merchant_app/ex_merchant_app.iml" filepath="$PROJECT_DIR$/ex_merchant_app/ex_merchant_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_product/ex_product.iml" filepath="$PROJECT_DIR$/ex_product/ex_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_sso/ex_sso.iml" filepath="$PROJECT_DIR$/ex_sso/ex_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_user_app/ex_user_app.iml" filepath="$PROJECT_DIR$/ex_user_app/ex_user_app.iml" />
+    </modules>
+  </component>
+</project>
